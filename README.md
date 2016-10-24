@@ -1,1 +1,3 @@
-# WeiBoKaiFangPingTai
+# 微博开放平台
+参考微博开放平台，使用HTML5、Css 编写的静态页面。
+
